@@ -1,3 +1,4 @@
+//Q. Find kth max and min element of an array
 #include <bits/stdc++.h>
 using namespace std;
  int main()
